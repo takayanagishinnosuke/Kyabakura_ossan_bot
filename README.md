@@ -1,6 +1,7 @@
 # キャバクラ通いのおっさん風ラインボットです
 - 夜蝶の気分でおっさんをカモってる雰囲気が味わえます
 - 人の写真を送ると感情分析による返答がおこなわれます
+https://user-images.githubusercontent.com/97178451/163425744-c1b368e0-8f6c-4591-9eae-19c7ceeb4b7b.png
 ## 工夫点
 - python + LINE開発者ツール + Amazon rekognition  samcliを使用しAWSLamdeへ関数を格納し動かしてます。
 - https://docs.aws.amazon.com/ja_jp/rekognition/latest/dg/faces-detect-images.html
