@@ -1,6 +1,6 @@
 {
-  "AWSTemplateFormatVersion": "2010-09-09",
-  "Transform": "AWS::Serverless-2016-10-31",
+  "AWSTemplateFormatVersion": "2022-04-013",
+  "Transform": "AWS::Serverless-2022-04-10",
   "Parameters": {
     "LineChannelAccessToken": {"Type": "String", "Description": "LINE のアクセストークン"},
     "LineChannelSecret": {"Type": "String", "Description": "LINE のチャンネルシークレット"}
