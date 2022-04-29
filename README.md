@@ -36,4 +36,4 @@
 - https://docs.aws.amazon.com/ja_jp/serverless-application-model/latest/developerguide/serverless-getting-started.html
 - https://github.com/line/line-bot-sdk-python
 - https://github.com/aws/serverless-application-model/blob/master/versions/2016-10-31.md
-- 
+- AWS samcli　についての初期設定はこちら　https://www.cloudsolution.tokai-com.co.jp/white-paper/2021/0617-239.html
