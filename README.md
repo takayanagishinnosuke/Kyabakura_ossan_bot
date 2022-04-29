@@ -24,3 +24,16 @@
 - boto3
 - aws-sam-cli
 - awscli
+## 手順 必要パッケージのinstall
+- pip3 install awscli https://pypi.org/project/awscli/
+- pip install line-bot-sdk https://pypi.org/project/line-bot-sdk/
+## 手順2 deploy時
+- https://docs.aws.amazon.com/ja_jp/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html
+- sam build -t template.json
+- sam deploy --guided
+
+## 参考
+- https://docs.aws.amazon.com/ja_jp/serverless-application-model/latest/developerguide/serverless-getting-started.html
+- https://github.com/line/line-bot-sdk-python
+- https://github.com/aws/serverless-application-model/blob/master/versions/2016-10-31.md
+- 
